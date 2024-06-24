@@ -1,0 +1,3 @@
+[submodule "vendor/lg"]
+	path = vendor/lg
+	url = https://github.com/joan2937/lg

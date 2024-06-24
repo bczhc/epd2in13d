@@ -1,0 +1,2 @@
+- https://www.waveshare.net/wiki/2.13inch_e-Paper_HAT_(D)_Manual#Raspberry_Pi
+- https://www.waveshare.net/w/upload/7/71/E-Paper_code.zip
